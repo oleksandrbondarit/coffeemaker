@@ -1,0 +1,6 @@
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\bin\Debug\coffeemaker.BL.dll
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\bin\Debug\coffeemaker.BL.pdb
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\obj\Debug\coffeemaker.BL.csproj.AssemblyReference.cache
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\obj\Debug\coffeemaker.BL.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\obj\Debug\coffeemaker.BL.dll
+D:\Разработка\C#\coffeemaker\coffeemaker.BL\obj\Debug\coffeemaker.BL.pdb

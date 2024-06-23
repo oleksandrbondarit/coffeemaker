@@ -1,0 +1,10 @@
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\bin\Debug\coffemakeradmin.CMD.exe.config
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\bin\Debug\coffemakeradmin.CMD.exe
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\bin\Debug\coffemakeradmin.CMD.pdb
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\bin\Debug\coffeemaker.BL.dll
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\bin\Debug\coffeemaker.BL.pdb
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\obj\Debug\coffemaker.CMD.csproj.AssemblyReference.cache
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\obj\Debug\coffemaker.CMD.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\obj\Debug\coffemaker.CMD.csproj.CopyComplete
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\obj\Debug\coffemakeradmin.CMD.exe
+D:\Разработка\C#\coffeemaker\coffemakeradmin.CMD\obj\Debug\coffemakeradmin.CMD.pdb
